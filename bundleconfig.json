@@ -1,0 +1,9 @@
+[
+  {
+    "outputFileName": "dist/js/app.js",
+    "inputFiles": [
+      "js/jquery-3.3.1.min.js",
+      "js/layout.js"
+    ]
+  }
+]
